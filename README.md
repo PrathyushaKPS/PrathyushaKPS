@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathyusha KPS</h1>
-<h3 align="center">Data Analyst | BI Developer | Insights Enthusiast</h3>
+<h3 align="center">Data Analyst | BI Developer </h3>
 
 <p align="center">
   <a href="mailto:prathyushakps66@gmail.com">📧 Email</a> •
@@ -10,7 +10,7 @@
 
 🎯 **About Me**
 
-I’m a passionate Data Analyst with 4+ years of experience transforming raw data into powerful insights that drive business impact. My strength lies in building scalable dashboards, predictive models, and automated solutions that improve efficiency and customer experience.
+I’m a passionate Data Analyst with 4 years of experience transforming raw data into powerful insights that drive business impact. My strength lies in building scalable dashboards, predictive models, and automated solutions that improve efficiency and customer experience.
 
 ---
 
@@ -27,7 +27,7 @@ I’m a passionate Data Analyst with 4+ years of experience transforming raw dat
 
 ---
 
-📊 **Featured Projects**
+📊 **Industry Projects**
 
 ### 🚦 Tunnels and Bridges Traffic Forecasting  
 *Jan 2025 – May 2025 | Port Authority, University of New Haven*  
@@ -60,7 +60,7 @@ I’m a passionate Data Analyst with 4+ years of experience transforming raw dat
 
 **Software Developer | Tata Consultancy Services**  
 *Aug 2021 – Dec 2023 | Hyderabad, India*  
-- Delivered 10+ product rollouts across APAC/LATAM  
+- Delivered 10+ product rollouts across APAC/LA  
 - Developed REST APIs reducing reporting delays by 35%  
 - Automated CI/CD pipelines and backend jobs  
 - Created Power BI dashboards improving reporting by 30%
@@ -75,13 +75,6 @@ I’m a passionate Data Analyst with 4+ years of experience transforming raw dat
 
 ---
 
-🌟 **Fun Facts**
-
-- I enjoy painting, cooking, and beach getaways 🖌️🍳🌊  
-- I love transforming old items into creative new things  
-- I thrive in collaborative, data-driven environments!
-
----
 
 📫 **Let’s Connect!**  
 Reach out via [LinkedIn](https://www.linkedin.com/in/kpsprathyusha/) or [Email](mailto:prathyushakps66@gmail.com) — I’m always open to discussing data, design, and innovation!
