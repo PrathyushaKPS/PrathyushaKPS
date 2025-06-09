@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavana Sree Prathyusha Kollu</h1>
+<h1 align="center">Hi 👋, I'm Prathyusha KPS</h1>
 <h3 align="center">Data Analyst | BI Developer </h3>
 
 <p align="center">
